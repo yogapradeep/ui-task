@@ -1,0 +1,23 @@
+* {
+    
+  font-family: Instrument Sans,sans-serif
+}
+
+a{
+  color: white !important;
+}
+
+.table thead tr th {
+  padding: 1.5rem .5rem!important;
+  font-size: 1rem!important
+}
+
+.table tbody tr td {
+  padding: 1.5rem .5rem!important;
+  font-size: 1rem
+}
+
+
+.table tbody tr:hover {
+  background-color: #ededed !important
+}
